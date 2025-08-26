@@ -1,0 +1,1 @@
+Flow: Wizard -> Settings -> Post Metabox -> Generate Schema (LLM Structured Outputs) -> Validate -> Inject into <head>

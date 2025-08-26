@@ -1,0 +1,13 @@
+Path,Type,Intended Placement,Per-file Size Guidance,Notes
+README_LOVABLE_IMPORT.md,md,Repo,≤25 MiB via web; ≤100 MiB via CLI,Entry point for Lovable import
+docs/PDR.md,md,Repo,Tiny,Full PDR here
+docs/Success_Metrics.md,md,Repo,Tiny,Targets & KPIs
+schemas/free/.keep,(placeholder),Repo,Tiny,Drop JSON-LD examples/templates
+schemas/pro/.keep,(placeholder),Repo,Tiny,Pro schema templates
+schemas/advanced/.keep,(placeholder),Repo,Tiny,Advanced schema templates
+assets/images/,images,Repo or Release,Prefer <1 MiB,PNG/JPG/SVG/WebP as needed
+assets/videos/,videos,Release,≤2 GiB per asset,Link from docs
+diagrams/,png/pdf,Repo,Keep small,App flows & architecture
+external/External_Links.md,md,N/A,N/A,Links to Drive/Dropbox for big items
+github/RELEASES.md,md,Repo,Tiny,How to attach large assets
+supabase/README_SUPABASE.md,md,Repo,Tiny,Bucket & env setup
